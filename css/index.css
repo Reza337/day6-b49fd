@@ -245,10 +245,6 @@ nav ul li .active {
 		flex-direction: column;
 	}
 
-	.container-card .left {
-		flex: 100%;
-	}
-
 	.container-card .right {
 		margin-left: 0;
 	}
